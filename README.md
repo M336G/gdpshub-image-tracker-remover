@@ -1,5 +1,7 @@
 English | [Français](https://github.com/M336G/gdpshub-image-tracker-remover/blob/main/README-FR.md) | [Русский](https://github.com/M336G/gdpshub-image-tracker-remover/blob/main/README-RU.md)
 
+<img alt="GDPS Hub Image Tracker Remover Logo" src="icons/icon-128.png" />
+
 # GDPS Hub Image Tracker Remover
 Avoid leaking your IP when checking a GDPS page by proxying all images potentially displayed on it
 
