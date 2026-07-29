@@ -6,7 +6,7 @@
         "url": "https://m336.dev/"
     },
     "description": "Avoid leaking your IP when checking a GDPS page by proxying all images potentially displayed on it",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {
         "16": "icons/icon-16.png",
         "32": "icons/icon-32.png",
